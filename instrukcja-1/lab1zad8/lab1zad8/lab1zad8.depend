@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1479136085 source:/home/krzysztof/Pulpit/instrukcja-1/lab1zad8/lab1zad8/main.c
+	<stdio.h>
+	<unistd.h>
+	<sys/types.h>
+	<signal.h>
+	<sys/wait.h>
+

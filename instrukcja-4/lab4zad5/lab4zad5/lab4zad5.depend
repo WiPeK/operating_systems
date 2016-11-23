@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1479644983 source:/home/krzysztof/Pulpit/instrukcja-4/lab4zad5/lab4zad5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<time.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<sys/sem.h>
+	<sys/wait.h>
+	<fcntl.h>
+

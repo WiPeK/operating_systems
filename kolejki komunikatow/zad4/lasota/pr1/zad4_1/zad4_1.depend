@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1478545444 source:/home/krzysztof/Pulpit/kolejki komunikatow/zad4/lasota/pr1/zad4_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<sys/types.h>
+

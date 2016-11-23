@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479151527 source:/home/krzysztof/Pulpit/instrukcja-2/lab2zad2/lab2zad2/main.c
+	<sys/types.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
